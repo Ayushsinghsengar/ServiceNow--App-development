@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_366629_sriinduit.log_incident_backup_user" name="x_366629_sriinduit.log_incident_backup_user">80559c09db023300051570e239961963</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 04:59:55</sys_created_on>
+        <sys_id>c0559c09db023300051570e239961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>80559c09db023300051570e239961963</sys_name>
+        <sys_package display_value="SriInduIT" source="x_366629_sriinduit">3adb3150db023300051570e23996191a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SriInduIT">3adb3150db023300051570e23996191a</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c0559c09db023300051570e239961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 04:59:55</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

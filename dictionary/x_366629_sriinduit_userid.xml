@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="userId" max_length="40" name="x_366629_sriinduit_userid" type="collection">
+        <element default="999999999" label="phonum" max_length="15" name="phonum" type="decimal"/>
+        <element default="sai" label="User info" max_length="100" name="user_info" reference="sys_user" type="string"/>
+    </element>
+</database>

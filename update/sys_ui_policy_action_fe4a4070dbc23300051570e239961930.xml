@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>short_description</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 09:33:43</sys_created_on>
+        <sys_id>fe4a4070dbc23300051570e239961930</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>short_description</sys_name>
+        <sys_package display_value="SriInduIT" source="x_366629_sriinduit">3adb3150db023300051570e23996191a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SriInduIT">3adb3150db023300051570e23996191a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_fe4a4070dbc23300051570e239961930</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 09:33:43</sys_updated_on>
+        <table>x_366629_sriinduit_log_incident</table>
+        <ui_policy display_value="contact type">24f94c30dbc23300051570e239961998</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>

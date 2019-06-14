@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log_incident" max_length="40" name="x_366629_sriinduit_log_incident" sizeclass="7" type="collection">
+        <element label="affetcted user" max_length="32" name="affetcted_user" reference="sys_user" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element display="true" label="Enddate" max_length="100" name="enddate" type="glide_date"/>
+        <element default="write something" label="indudesc" max_length="100" name="indudesc" type="string"/>
+        <element default="test default" label="induSD" max_length="100" name="indusd" type="string"/>
+        <element choice="1" default="select any one" label="Selectchoice" max_length="100" name="selectchoice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="mail" value="aravndmedamoni@gmail.comd"/>
+                <element inactive_on_update="false" label="mbnum" value="989898989"/>
+            </choice>
+        </element>
+        <element label="startdate" max_length="100" name="startdate" type="glide_date"/>
+        <element label="New Audio" max_length="40" name="u_audio_1" type="audio"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="startdate" max_length="40" name="u_glide_date_1" type="glide_date"/>
+    </element>
+</database>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="User Dates" section_id="964e2ed0db823300051570e239961917" sys_domain="global" table="x_366629_sriinduit_log_incident" version="3" view="sai">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_audio_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:12:50</sys_created_on>
+            <sys_id>524e2ed0db823300051570e239961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User Dates" display_value="User Dates" name="x_366629_sriinduit_log_incident" sys_domain="global" view="5a4e2ed0db823300051570e239961913">964e2ed0db823300051570e239961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:12:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:12:50</sys_created_on>
+            <sys_id>d24e2ed0db823300051570e239961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User Dates" display_value="User Dates" name="x_366629_sriinduit_log_incident" sys_domain="global" view="5a4e2ed0db823300051570e239961913">964e2ed0db823300051570e239961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:12:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:12:50</sys_created_on>
+            <sys_id>564e2ed0db823300051570e239961965</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="User Dates" display_value="User Dates" name="x_366629_sriinduit_log_incident" sys_domain="global" view="5a4e2ed0db823300051570e239961913">964e2ed0db823300051570e239961917</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:12:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>User Dates</caption>
+            <header>false</header>
+            <name>x_366629_sriinduit_log_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:12:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>964e2ed0db823300051570e239961917</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>User Dates</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SriInduIT" source="x_366629_sriinduit">3adb3150db023300051570e23996191a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SriInduIT">3adb3150db023300051570e23996191a</sys_scope>
+            <sys_update_name>sys_ui_section_964e2ed0db823300051570e239961917</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:12:50</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="sai" name="sai">5a4e2ed0db823300051570e239961913</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
